@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "gatsby-landing",
+  "name": "periskio-website",
   "builds": [
     {
       "src": "packages/landing-gatsby/package.json",

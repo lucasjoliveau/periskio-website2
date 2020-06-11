@@ -5,7 +5,7 @@ import { ResetCSS } from 'common/src/assets/css/style';
 
 const NotFoundPage = () => (
   <>
-    <SEO title="404: Not found" />
+    <SEO title="Periskio | Page introuvable" />
     <ResetCSS />
     <ErrorSec></ErrorSec>
   </>

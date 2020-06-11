@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-landing",
+  "name": "periskio-website",
   "private": true,
-  "description": "React Next Landing with Gatsby Static site generator.",
-  "version": "4.0.0",
-  "author": "RedQ Team",
+  "description": "Prenez des décisions d'affaires éclairées.",
+  "version": "1.0.0",
+  "author": "Periskio",
   "dependencies": {
     "@glidejs/glide": "^3.4.1",
     "@redq/reuse-modal": "^1.1.9",

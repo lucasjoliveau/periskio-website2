@@ -28,10 +28,10 @@ const BannerSection = ({
 }) => {
   const ButtonGroup = () => (
     <Fragment>
-      <Button title="FREE TRAIL" {...btnStyle} />
+      <Button title="Essayer gratuitement" {...btnStyle} />
       <Button
         className="outlined"
-        title="EXPLORE MORE"
+        title="En savoir plus"
         variant="outlined"
         {...outlineBtnStyle}
       />
@@ -43,22 +43,18 @@ const BannerSection = ({
       <Container>
         <Box className="row" {...row}>
           <Box className="col" {...col}>
-            <DiscountLabel>
-              <Text content="25% Discount" {...discountAmount} />
-              <Text content="on every first project " {...discountText} />
-            </DiscountLabel>
             <FeatureBlock
               title={
                 <Heading
-                  content="Ultimate Platform
-                    to monitor your best
-                    workflow."
+                  content="Prenez des décisions d'affaires éclairées!"
                   {...title}
                 />
               }
               description={
                 <Text
-                  content="We help to create SaaS product that are innovative, differentiated with a superb User Experience, fully accessible through mobile devices. SaaS products are changing the world ."
+                  content="Periskio offre au travers d’une saisie simple et unique, assistée par l’intelligence
+artificielle les informations qui aident le décideur dans ses affaires et ses prises de
+décisions, basées sur plusieurs centaines de sources d’informations."
                   {...description}
                 />
               }

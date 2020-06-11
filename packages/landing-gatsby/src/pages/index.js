@@ -23,7 +23,7 @@ export default () => {
   return (
     <ThemeProvider theme={saasTheme}>
       <Fragment>
-        <SEO title="Saas | A react next landing page" />
+        <SEO title="Periskio | Décisions d'affaires éclairées" />
         <ResetCSS />
         <GlobalStyle />
         <ContentWrapper>
