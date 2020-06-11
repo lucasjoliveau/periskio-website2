@@ -162,42 +162,43 @@ export const Service = [
   {
     id: 1,
     icon: 'flaticon-briefing',
-    title: 'App Development',
+    title: 'Départements de gestion des risques',
     description:
       'We are specialized at custom Saas Application Development and special features .',
   },
   {
     id: 2,
     icon: 'flaticon-trophy',
-    title: '10 Times Award',
+    title: 'Investisseurs ou les Capitals Risque',
     description:
       'We are globally recognised for our services and won a lot of prices around the world .',
   },
   {
     id: 3,
     icon: 'flaticon-atom',
-    title: 'Cloud Stroage',
+    title: 'Contracteurs',
     description:
       'LiteSpeed Web Server known for its high performance and low resource consumption.',
   },
   {
     id: 4,
     icon: 'flaticon-ruler',
-    title: 'Client Satisfaction',
+    title: 'Gouvernement et secteur publique',
     description:
       'Client Satisfaction is our first priority and We are best at it .Keep In Touch.',
   },
   {
     id: 5,
     icon: 'flaticon-creative',
-    title: 'UX Planning',
+    title: 'Entrepreneurs',
     description:
-      'We provide the best UI/UX Design by following the latest trends of the market  .',
+      'Le chef d’entreprise veut en savoir plus sur son écosystème, un nouveau marché ou\n' +
+      'confirmer l’existant, un compétiteur, etc.',
   },
   {
     id: 6,
     icon: 'flaticon-conversation',
-    title: 'Customer Support',
+    title: 'Éditeurs de logiciels',
     description:
       'A Dedicated support team is always ready to provide best support to our customers.',
   },

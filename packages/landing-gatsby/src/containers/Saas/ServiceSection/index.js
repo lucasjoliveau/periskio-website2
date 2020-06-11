@@ -37,8 +37,8 @@ const ServiceSection = ({
     <ServiceSectionWrapper id="feature_section">
       <Container>
         <Box {...sectionHeader}>
-          <Text content="OUR FEATURES" {...sectionSubTitle} />
-          <Heading content="Why you should choose our Saas" {...sectionTitle} />
+          <Text content="À PROPOS" {...sectionSubTitle} />
+          <Heading content="À qui s'adresse Periskio?" {...sectionTitle} />
         </Box>
         <Box className="row" {...row}>
           {Data.saasJson.Service.map((feature, index) => (
